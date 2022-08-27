@@ -1,6 +1,6 @@
-<center style="opacity:0.3">These are just jokes, don't take it seriously</center>
+<div style="opacity:0.3">These are just jokes, don't take it seriously</div>
 
-# <center>Pantun Marketplace<center>
+# <div align="center">Pantun Marketplace<center>
 
 <div align="center">
 
