@@ -1,5 +1,3 @@
-<div style="opacity:0.3">These are just jokes, don't take it seriously</div>
-
 # <div align="center">Pantun Marketplace<center>
 
 <div align="center">
@@ -48,3 +46,5 @@ Therefore, NONE TO BE SELL.
 STILL WIP
 
 </div>
+
+<div style="opacity: 0.3">These are just jokes, i ran out of ideas :v</div>
