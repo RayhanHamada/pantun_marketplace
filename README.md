@@ -20,7 +20,7 @@ Mei mei helping her mother selling flowers...
 Susanti also helping her mother baking cakes and pastries...
 
 <br />
-Mail that hustlin' everyday selling chickens and stuff... (mad respect on this dude)
+Mail that hustlin' everyday selling chickens and stuff... (mad respect to this dude)
 
 <br />
 And Fizi <strike>with his sugar baby mentality</strike> that always assist his friend ehsan
